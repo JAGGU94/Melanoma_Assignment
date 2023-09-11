@@ -3,7 +3,7 @@
 # Project Name:-  
 Melanoma Assignment
 # Objective :- 
-To build a CNN based model to predict the Melanoma a type of cancer that can be deadly. A solutios in needed that can evaluate images and alert dermatologists the presence of mealanoma. 
+To build a CNN based model to predict the Melanoma a type of cancer that can be deadly. A solution is needed that can evaluate images and alert dermatologists the presence of melanoma. 
 
 # Technologies used:- 
 CNN - Convolutional Neural Network with Tensor flow and keras. 
@@ -59,6 +59,7 @@ Train the model for ~30 epochs
 Model3 resolves class imbalance using augmentor technique. Accuracy and loss function fits very well. The accuracy and loss varies with 
  -  Model overfitting issue is solved.
  -  Class rebalance helps in augmentation and achieving the best Training and validation accuracy.
+ -  CNN can be effectively used to classify images. 
 
 
 
