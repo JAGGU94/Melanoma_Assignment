@@ -57,6 +57,10 @@ Train the model for ~30 epochs
 
 # Conclusion :- 
 Model3 resolves class imbalance using augmentor technique. Accuracy and loss function fits very well. The accuracy and loss varies with 
+ -  Model overfitting issue is solved.
+ -  Class rebalance helps in augmentation and achieving the best Training and validation accuracy.
+
+
 
 # Team Memebers :- 
 Jagadeesh Shivaprasad
