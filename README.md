@@ -20,7 +20,7 @@ Squamous cell carcinoma
 Vascular lesion
 
 These data sets consists of images for different diseases, we have to use CNN model to understand and train the model to predict the disease. 
-With these built model will be usefult to calssify melanoma with just images processing and will be usefult to dermatologists. 
+With these built model will be usefult to calssify melanoma with just images processing and will be useful to dermatologists. 
 
 # Project Pipeline :- 
 
